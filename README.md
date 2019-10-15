@@ -3,7 +3,7 @@
 
 Bioinformatics pipeline to process fastq miseq for lymphoid target sequencing : dual calling of variants
 
-![pipeline](https://github.com/cdesterke/LYPBR2019CDv1/edit/master/pipeline.png)
+![pipeline](https://github.com/cdesterke/LYPBR2019CDv1/blob/master/pipeline.png)
 
 # references
 
